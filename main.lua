@@ -1,4 +1,8 @@
+Object = require 'lib/classic/classic'
+require 'obj/Test'
+
 function love.load()
+  test_instance = Test()
   image = love.graphics.newImage('assets/dora.png')
 end
 
