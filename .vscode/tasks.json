@@ -1,0 +1,9 @@
+{
+    "key": "Alt+L,", 
+    "command": "pixelbyte.love2d.run",
+    "pixelbyte.love2d.path" : "C:\Program Files\Love\love.exe",
+    "group": {
+        "kind": "build",
+        "isDefault": true
+    }
+}
